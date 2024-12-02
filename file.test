@@ -1,0 +1,4 @@
+# the basic git command
+git init
+git add -A git . git add --all
+Get the others
